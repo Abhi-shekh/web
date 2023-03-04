@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+header{
+    text-align: center;
+    background-color: rgb(241, 139, 50);
+    text-shadow: 6ch;
+}
+nav{
+    display: block;
+}
+#about{
+    border: 1px solid black;
+    width: 65;
+    background-image: linear-gradient(to right, orange,rgb(133, 192, 234));
+    box-shadow: 3px 3px 3px rgb(61, 27, 199);
+    
+}

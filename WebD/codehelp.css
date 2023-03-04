@@ -1,0 +1,38 @@
+.text{
+    font-family: sans-serif;
+    margin: 20px;
+    font-size: 38px;
+    
+}
+
+
+img{
+    margin: 20px;
+    border-radius: 25px;
+    box-shadow: 6px 6px 7px black;
+}
+
+
+.price{
+    font-family: sans-serif;
+    margin: 20px;
+    color: rgb(104, 104, 217);
+    font-weight: bolder;
+}
+.exact{
+    font-family: sans-serif;
+    margin: 20px;
+    color: grey;
+    font-weight: bolder;
+}
+.off{
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: rgb(78, 218, 167);
+    padding: 3px;
+    color: white;
+    border-radius: 5px;
+}
+.off:hover{
+    color: black;
+}
